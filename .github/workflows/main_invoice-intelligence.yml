@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Invoice-Intelligence'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9720FF9138F44032AC15211D4C20A2DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84755D40669047AA829EF62E4CC41FD3 }}
